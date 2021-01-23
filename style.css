@@ -1,5 +1,5 @@
 *{
-	font-family: monotype corsiva;
+	font-family:arial;
 }
 
 body{
@@ -9,19 +9,14 @@ body{
 /* SERVICES SECTION */
 
 #services_offered{
-	margin-top: 50px;
+	margin-top: 75px;
 }
 
 .services_column{
-	padding: 10px;
-	text-align: center;
-	max-width: 350px;
+	width: 370px;
+	margin-top: 30px;
 }
 
-.services-content{
-	margin-top: 20px;
-
-}
 
 /* GALLERY SECTION */
 
